@@ -12,3 +12,4 @@ C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\ne
 C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.pdb
 C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.genruntimeconfig.cache
 C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\ref\C-choose-own-adventure.dll
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.sourcelink.json
