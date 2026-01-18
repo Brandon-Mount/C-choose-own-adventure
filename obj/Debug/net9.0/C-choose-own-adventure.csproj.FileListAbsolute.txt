@@ -1,0 +1,14 @@
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\bin\Debug\net9.0\C-choose-own-adventure.exe
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\bin\Debug\net9.0\C-choose-own-adventure.deps.json
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\bin\Debug\net9.0\C-choose-own-adventure.runtimeconfig.json
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\bin\Debug\net9.0\C-choose-own-adventure.dll
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\bin\Debug\net9.0\C-choose-own-adventure.pdb
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.AssemblyInfoInputs.cache
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.AssemblyInfo.cs
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.csproj.CoreCompileInputs.cache
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.dll
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\refint\C-choose-own-adventure.dll
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.pdb
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\C-choose-own-adventure.genruntimeconfig.cache
+C:\Users\bmoun\OneDrive\Desktop\C# adventure\C-choose-own-adventure\obj\Debug\net9.0\ref\C-choose-own-adventure.dll
