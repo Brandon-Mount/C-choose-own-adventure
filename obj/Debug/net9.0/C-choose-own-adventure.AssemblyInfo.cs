@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-choose-own-adventure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6777701d325b4372d883f3696521206193e78a36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af87262ef12f06514e9cede866633a5e593d2f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-choose-own-adventure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-choose-own-adventure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
